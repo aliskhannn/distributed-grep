@@ -36,7 +36,7 @@ distributed-grep/
 ├── pkg/grep/                      # core grep matching logic
 ├── examples/                      # usage examples
 │   └── simple/
-├── tests/                         # integration/unit tests
+├── tests/                         # integration tests
 ├── Makefile
 ├── README.md
 └── go.mod
